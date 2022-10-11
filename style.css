@@ -1,0 +1,67 @@
+
+#wrapper{
+    width: 960px;
+    margin: 0 auto;
+}
+
+#header{
+    margin-bottom: 10px;
+}
+
+#content{
+    background: #0F2027;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    padding: 20px;
+    height: auto;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+#artikel{
+    width: 700px;
+    height: auto;
+    float: left;
+   
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin-bottom: 20px;
+}
+
+.box2{
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+#Footer{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    background: #203A43;
+
+}
+
+h1,h3, p{
+    color: aliceblue;
+}
+
+
+
+img{
+    margin-bottom: 20px;
+}
+
+a{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: rgb(255, 255, 255);
+}
+
+.liga{
+    float: right;
+}
